@@ -1,7 +1,9 @@
 # Basic React Starter
 
 ## Poi
-Built using the excellent [Poi](https://poi.js.org). IMHO the best no-config development kit. Deal with it.
+Built using the excellent [Poi](https://poi.js.org). IMHO the best no-config development kit.
+Now you can forget or even be ignorant about webpack. 😜
+Deal with it. 😎
 
 ## Usage
 1.	I implore you to use yarn instead of npm. It's faster. Will save you hours.
