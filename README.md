@@ -19,6 +19,7 @@ Deal with it. 😎
 2.	Clone this repo & initialize it as your own.
 	```shell
     git clone git@github.com:wansaleh/poi-react-starter.git
+    cd poi-react-starter
     rm -rf .git
     ```
 
